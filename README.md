@@ -1,4 +1,14 @@
 ### Hi there 👋
+🔭 I am a .NET Core Back-End Developer • Blogger 
+
+📫 How to reach me 
+
+[![Linkedin Badge](https://img.shields.io/badge/-farhadzamani-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhadzamani/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-farhadzamani-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/farhad_zmi "Contact on Telegram")
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhadzm&show_icons=true&count_private=true&include_all_commits=true" />
+</p>
 
 <!--
 **farhadzm/farhadzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
