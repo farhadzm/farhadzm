@@ -2,7 +2,6 @@
 🔭 I am a .NET Core Back-End Developer • Blogger 
 
 [![Telegram Badge](https://img.shields.io/badge/DND-DotNetDocs-blue)](https://dotnetdocs.ir "My web site")
-
 [![Linkedin Badge](https://img.shields.io/badge/-farhadzamani-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhadzamani/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-farhadzamani-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/farhad_zmi "Contact on Telegram")
 
